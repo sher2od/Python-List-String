@@ -1,5 +1,5 @@
 
-sohalar = input("Sohalarni vergul bilan ajratib kiriting: ")
+sohalar = input("Sohalarni vergul bilan  kiriting: ")
 
 sohalar_list = sohalar.split(',')
 
